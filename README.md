@@ -9,6 +9,12 @@ git tutorials: https://www.atlassian.com/git/tutorials/setting-up-a-repository/g
 
 https://gobyexample.com/
 
+Cobra CLI framework: https://github.com/spf13/cobra
+Viper config framework: https://github.com/spf13/viper
+LogRUs: https://github.com/sirupsen/logrus
+logrus local filesystem hook: https://github.com/orandin/lumberjackrus  
+
+
 Things to do: 
 1. CLI apps. 
 2. YML configuration
