@@ -17,7 +17,7 @@ logrus local filesystem hook: https://github.com/orandin/lumberjackrus
 ## Embed
 - https://blog.carlmjohnson.net/post/2021/how-to-use-go-embed/
 - https://pkg.go.dev/embed
-- [google result]https://www.google.com/search?q=go+embed&ei=c_XeYcDWKMqHoASrlaaYDg&ved=0ahUKEwiA3LCmxaz1AhXKA4gKHauKCeMQ4dUDCA4&uact=5&oq=go+embed&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEJECMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgcIABBHELADOgQIABBDSgQIQRgASgQIRhgAUNsHWPAIYPYJaAFwAngAgAFyiAHPAZIBAzEuMZgBAKABAcgBCMABAQ&sclient=gws-wiz
+- [google result](https://www.google.com/search?q=go+embed&ei=c_XeYcDWKMqHoASrlaaYDg&ved=0ahUKEwiA3LCmxaz1AhXKA4gKHauKCeMQ4dUDCA4&uact=5&oq=go+embed&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEJECMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgcIABBHELADOgQIABBDSgQIQRgASgQIRhgAUNsHWPAIYPYJaAFwAngAgAFyiAHPAZIBAzEuMZgBAKABAcgBCMABAQ&sclient=gws-wiz)
 
 ## Todo
 Things to do: 
